@@ -1,0 +1,31 @@
+.container{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 85, 255)
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1024px;
+    width: 100%;
+    color: white;
+}
+
+.left{
+    display: flex;
+}
+
+.right{
+    display: flex;
+}
+
+.menuItem{
+    cursor: pointer;
+    margin: 15px;
+}
+
+
